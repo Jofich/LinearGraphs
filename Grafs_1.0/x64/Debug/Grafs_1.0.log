@@ -1,0 +1,42 @@
+﻿  main.cpp
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(32,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(33,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(33,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(35,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(36,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(36,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(44,65): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\projects\IT\repositors\Grafs_1.0\Grafs_1.0\main.cpp(44,52): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Grafs_1.0.vcxproj -> D:\projects\IT\repositors\Grafs_1.0\x64\Debug\Grafs_1.0.exe
